@@ -1,2 +1,2 @@
 # My-work
-. A demo repository
+- A demo repository
