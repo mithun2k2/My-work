@@ -1,11 +1,6 @@
 # for i in range(10):
 #     print(i)
 
-
-
-
-
-
 total = 0
 start = 1
 stop = 20
